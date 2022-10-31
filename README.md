@@ -24,5 +24,7 @@ pip2 install mechanize
 pip install rich
 
 git clone https://github.com/Jayedh298/paid3.git
+
 cd paid3
+
 python3 paid3.py
